@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+langchain-google-community
+langchain-community
+langchain-chroma
+langchain-core
+PyPDFium2
+python-dotenv
